@@ -38,18 +38,6 @@ Focused on business logic, user journeys, and product quality. Attention to deta
 
 ---
 
-## 📂 Featured QA Projects
-- 🛠 **DevLovers QA Testing** — Manual testing, checklists & bug reports  
-- 🍦 **Ice-Cream Website** — Team project, HTML5 & CSS3  
-- ⚛️ **React Quiz App** — Functional & UI testing  
-
----
-
 ## 📊 GitHub Stats
 ![Olena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlenaKolchyk&show_icons=true&theme=radical)
 
----
-
-## 📌 Contacts
-- ✉️ Email: your.email@example.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/olenakolchyk/)  
