@@ -1,82 +1,55 @@
-# 👋 Hi, I'm Olena
+# 👩‍💻 Olena Kolchyk | Manual QA Tester
 
-🔎 **Manual QA Tester**  
-📍 Warsaw, Poland  
-💼 Actively looking for QA opportunities  
+📍 Warsaw, Poland | Actively looking for QA opportunities  
 
 ---
 
-## 🧪 About Me
-
-I’m passionate about exploring software, finding bugs, and improving product quality from the user's perspective.
-
-Testing for me is more than just checking functionality — I enjoy analyzing systems, discovering edge cases, and paying close attention to details that impact real user experience.
-
-My goal is to help build products that are **reliable, intuitive, and comfortable for users to interact with**.
+## 🕵️‍♀️ QA Mindset
+Passionate about exploring software, finding bugs, analyzing edge cases, and improving user experience.  
+Focused on business logic, user journeys, and product quality. Attention to detail is my superpower.  
 
 ---
 
-## 🛠 QA Skills
+## 🛠 QA Skills & Tools
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF69B4?style=for-the-badge&logo=appveyor)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-1E90FF?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-32CD32?style=for-the-badge)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory-FFA500?style=for-the-badge)
+![UI Testing](https://img.shields.io/badge/UI_Testing-FF4500?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-800080?style=for-the-badge)
 
-### 🔍 Testing
-- Manual Testing  
-- Functional Testing  
-- Regression Testing  
-- Exploratory Testing  
-- UI Testing  
-- API Testing  
+**Tools:**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+![TestRail](https://img.shields.io/badge/TestRail-2F80ED?style=for-the-badge&logo=jira)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-### ⚙️ Tools
-- Postman  
-- Swagger  
-- Chrome DevTools  
-- Jira  
-- TestRail  
-- GitHub  
+**Data:** JSON, XML, SQL  
+**Other:** Test cases, Checklists, Bug reports, Test documentation  
 
-### 📊 Data
-- JSON (basic)  
-- XML (basic)  
-- SQL (basic)  
+---
 
-### 📄 QA Documentation
-- Test Cases  
-- Checklists  
-- Bug Reports  
-- Test Documentation  
+## 🌐 Languages
+🇺🇦 Ukrainian — Native  
+🇬🇧 English — Intermediate  
+🇵🇱 Polish — Intermediate  
 
 ---
 
 ## 📂 Featured QA Projects
-
-Some of my strongest QA projects are pinned below 👇
-
-They include:
-- Manual testing of real web applications
-- Test checklists and structured test documentation
-- Bug reports with clear reproduction steps
-- Chrome DevTools analysis (console & network)
-- Regression testing after fixes
+- 🛠 **DevLovers QA Testing** — Manual testing, checklists & bug reports  
+- 🍦 **Ice-Cream Website** — Team project, HTML5 & CSS3  
+- ⚛️ **React Quiz App** — Functional & UI testing  
 
 ---
 
-## 🌍 Languages
-
-- 🇺🇦 Ukrainian — Native  
-- 🇬🇧 English — Intermediate  
-- 🇵🇱 Polish — Intermediate  
+## 📊 GitHub Stats
+![Olena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlenaKolchyk&show_icons=true&theme=radical)
 
 ---
 
-## 🧠 QA Mindset
-
-- User-focused testing approach  
-- Attention to detail  
-- Analytical thinking  
-- Passion for discovering hidden issues in software  
-
-Currently focusing on **manual testing and QA fundamentals**, with plans to expand into **automation testing in the future**.
-
----
-
-⭐ Thanks for visiting my profile!
+## 📌 Contacts
+- ✉️ Email: your.email@example.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/olenakolchyk/)  
